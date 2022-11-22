@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,1,1
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,1,1
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,1,1
-'Wasserkraft'de,Energiequelle,#6666ff,#99999ff,1,1
+'Wasserkraft',de,Energiequelle,#6666ff,#99999ff,1,1
 'Ausbau',de,Energiewende,#009933,#ccffdd,1,1
 'Investitionen',de,Energiewende,#009933,#80ffaa,1,1
 'Energiewende',de,Energiewende,#009933,#1aff66,1,1
