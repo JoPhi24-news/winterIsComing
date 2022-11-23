@@ -4,7 +4,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,1.0
 'Inflation',de,Krise,#cc0066,#ff80bf,1,1.0
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,1,1.0
-'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,1,1.0
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,1,1.0
 'Wasserkraft',de,Energiequelle,#6666ff,#99999ff,1,1.0
 'Ausbau',de,Energiewende,#009933,#ccffdd,1,1.0
@@ -16,4 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,1,1.0
 'Heizen',de,Folgen,#ff9900,#ffad33,1,1.0
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,1,1.0
+'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,2,0.9185906986363637
 'Winter',de,Krise,#cc0066,#ffb3d9,2,0.8686762886363636
