@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Investitionen',de,Energiewende,#009933,#80ffaa,1,1.0
 'Energiewende',de,Energiewende,#009933,#1aff66,1,1.0
 'Erneuerbare',de,Energiewende,#009933,#00cc44,1,1.0
-'Energieeffizienz',de,Energiewende,#009933,#004d1a,1,1.0
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,1.0
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,1,1.0
 'Heizen',de,Folgen,#ff9900,#ffad33,1,1.0
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,1,1.0
-'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,2,0.9185906986363637
+'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,2,0.9185906986363636
+'Energieeffizienz',de,Energiewende,#009933,#004d1a,2,0.8731360031818182
 'Winter',de,Krise,#cc0066,#ffb3d9,2,0.8686762886363636
