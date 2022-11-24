@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,1,1.0
-'Heizen',de,Folgen,#ff9900,#ffad33,1,1.0
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.9640692440909092
+'Heizen',de,Folgen,#ff9900,#ffad33,2,0.9231459481818182
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,2,0.8958659459090909
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,2,0.8958620759090908
 'Investitionen',de,Energiewende,#009933,#80ffaa,2,0.8913515263636363
