@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,1,1.0
 'Winter',de,Krise,#cc0066,#ffb3d9,2,0.8686762886363636
-'Preisanstieg',de,Folgen,#ff9900,#ffa31a,4,0.8589355552727271
+'Preisanstieg',de,Folgen,#ff9900,#ffa31a,1,0.8589355552727271
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.8353646951363636
 'Heizen',de,Folgen,#ff9900,#ffad33,2,0.8350928964090909
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.8289828420227273
