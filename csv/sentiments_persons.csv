@@ -1,140 +1,138 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Olaf Scholz,Olaf Scholz,PER,0.09929078014184396,0.05673758865248227,de,47
+Olaf Scholz,Olaf Scholz,PER,0.11805555555555554,0.05555555555555555,de,48
 Robert Habeck,Robert Habeck,PER,-0.05925925925925926,0.0,de,27
 Wirtschaftsminister Habeck,Wirtschaftsminister Habeck,PER,-0.02666666666666666,0.0,de,15
 Wintershall Dea,Wintershall Dea,PER,0.375,0.0,de,8
 Christian Lindner,Christian Lindner,PER,0.10952380952380951,0.047619047619047616,de,7
 Friedrich Merz,Friedrich Merz,PER,-0.14285714285714285,0.0,de,7
 Emmanuel Macron,Emmanuel Macron,PER,-0.16666666666666666,0.26666666666666666,de,6
+Klaus Müller,Klaus Müller,PER,0.06000000000000001,0.0,de,5
 Mario Mehren,Mario Mehren,PER,0.13999999999999999,0.8,de,5
 Wolfgang Schäuble,Wolfgang Schäuble,PER,-0.1,0.0,de,5
 Liz Truss,Liz Truss,PER,0.0,0.0,de,5
-Klaus Müller,Klaus Müller,PER,0.06000000000000001,0.0,de,5
 Christine Lagarde,Christine Lagarde,PER,0.25,0.25,de,4
 Netzagentur-Chef Müller,Netzagentur-Chef Müller,PER,0.125,0.0,de,4
-Johan Eliasch,Johan Eliasch,PER,-0.3333333333333333,0.0,de,3
-Michael Kretschmer,Michael Kretschmer,PER,-0.2333333333333333,0.0,de,3
-Adam Tooze,Adam Tooze,PER,0.0,0.0,de,3
-Jens Spahn,Jens Spahn,PER,0.0,0.0,de,3
-Leonore Gewessler,Leonore Gewessler,PER,0.6666666666666666,0.0,de,3
-Frans Timmermans,Frans Timmermans,PER,-0.10000000000000002,0.0,de,3
-Moritz Schularick,Moritz Schularick,PER,0.2333333333333333,0.0,de,3
-Omid Nouripour,Omid Nouripour,PER,0.4666666666666666,0.0,de,3
-Winfried Kretschmann,Winfried Kretschmann,PER,0.3333333333333333,0.0,de,3
 Veronika Grimm,Veronika Grimm,PER,0.4666666666666666,0.0,de,3
-Netzagentur-Präsident Müller,Netzagentur-Präsident Müller,PER,0.0,0.0,de,3
+Winfried Kretschmann,Winfried Kretschmann,PER,0.3333333333333333,0.0,de,3
 Karl Lauterbach,Karl Lauterbach,PER,0.0,0.0,de,3
-Silke Gebel,Silke Gebel,PER,0.0,0.0,de,3
-Katrin Göring-Eckardt,Katrin Göring-Eckardt,PER,-0.11666666666666665,0.16666666666666666,de,3
+Netzagentur-Präsident Müller,Netzagentur-Präsident Müller,PER,0.0,0.0,de,3
+Moritz Schularick,Moritz Schularick,PER,0.2333333333333333,0.0,de,3
+Frans Timmermans,Frans Timmermans,PER,-0.10000000000000002,0.0,de,3
+Leonore Gewessler,Leonore Gewessler,PER,0.6666666666666666,0.0,de,3
+Jens Spahn,Jens Spahn,PER,0.0,0.0,de,3
+Michael Kretschmer,Michael Kretschmer,PER,-0.2333333333333333,0.0,de,3
 Ulrike Malmendier,Ulrike Malmendier,PER,0.0,0.0,de,3
+Adam Tooze,Adam Tooze,PER,0.0,0.0,de,3
+Omid Nouripour,Omid Nouripour,PER,0.4666666666666666,0.0,de,3
+Katrin Göring-Eckardt,Katrin Göring-Eckardt,PER,-0.11666666666666665,0.16666666666666666,de,3
+Silke Gebel,Silke Gebel,PER,0.0,0.0,de,3
+Johan Eliasch,Johan Eliasch,PER,-0.3333333333333333,0.0,de,3
 Ursula von der Leyen,Ursula von der Leyen,PER,0.0,0.0,de,3
-Marc Rich,Marc Rich,PER,0.0,0.0,de,2
-Hartz IV,Hartz IV,PER,0.0,0.0,de,2
+Maria Burghardt,Maria Burghardt,PER,0.0,0.0,de,2
+Thomas Huber,Thomas Huber,PER,0.7,0.0,de,2
+Elias Singer,Elias Singer,PER,0.0,0.0,de,2
+Bettina Stark-Watzinger,Bettina Stark-Watzinger,PER,0.0,0.0,de,2
+Howard Marks,Howard Marks,PER,0.0,0.0,de,2
+Ray Dalio,Ray Dalio,PER,0.0,0.0,de,2
+Warren Buffett,Warren Buffett,PER,0.0,0.0,de,2
+Lars Klingbeil,Lars Klingbeil,PER,0.0,0.0,de,2
+Benjamin Hahn,Benjamin Hahn,PER,0.0,0.0,de,2
 Will Deutschland,Will Deutschland,PER,0.0,0.0,de,2
+Felix Rauschek,Felix Rauschek,PER,-0.7,0.0,de,2
 Katja Kipping,Katja Kipping,PER,0.0,0.0,de,2
 Franziska van Almsick,Franziska van Almsick,PER,0.0,0.0,de,2
 Alexandra Sdoukou,Alexandra Sdoukou,PER,0.7,0.0,de,2
-Andreas Schell,Andreas Schell,PER,0.7,0.0,de,2
-Lars Klingbeil,Lars Klingbeil,PER,0.0,0.0,de,2
-Guy Parmelin,Guy Parmelin,PER,0.0,0.0,de,2
-Europas Gasprobleme,Europas Gasprobleme,PER,0.0,1.0,de,2
-Felix Rauschek,Felix Rauschek,PER,-0.7,0.0,de,2
-Benjamin Hahn,Benjamin Hahn,PER,0.0,0.0,de,2
-Maria Burghardt,Maria Burghardt,PER,0.0,0.0,de,2
-Bettina Stark-Watzinger,Bettina Stark-Watzinger,PER,0.0,0.0,de,2
-Viktor Orban,Viktor Orban,PER,0.0,0.5,de,2
-Ralph Tiesler,Ralph Tiesler,PER,-0.35,0.0,de,2
+Annalena Baerbock,Annalena Baerbock,PER,0.0,0.0,de,2
 Arnold Drewer,Arnold Drewer,PER,-1.0,0.0,de,2
-Bundespräsident Steinmeier,Bundespräsident Steinmeier,PER,0.35,0.0,de,2
+Lena Schilling,Lena Schilling,PER,0.0,0.0,de,2
+Kai Hufendiek,Kai Hufendiek,PER,-0.11666666666666665,0.0,de,2
+Matthias Zachert,Matthias Zachert,PER,0.0,0.0,de,2
+Viktor Orban,Viktor Orban,PER,0.0,0.5,de,2
+Christina Morina,Christina Morina,PER,0.0,0.0,de,2
+Europas Gasprobleme,Europas Gasprobleme,PER,0.0,1.0,de,2
+Guy Parmelin,Guy Parmelin,PER,0.0,0.0,de,2
+Hartz IV,Hartz IV,PER,0.0,0.0,de,2
+Andreas Schell,Andreas Schell,PER,0.7,0.0,de,2
+Heiko Paeth,Heiko Paeth,PER,0.0,0.0,de,2
+Swen Hubrich,Swen Hubrich,PER,0.0,0.0,de,2
+Björn Alexander,Björn Alexander,PER,0.5,0.0,de,2
+Max Kruse,Max Kruse,PER,0.0,0.0,de,2
+Ralph Tiesler,Ralph Tiesler,PER,-0.35,0.0,de,2
+Sören Pellmann,Sören Pellmann,PER,0.7,0.0,de,2
+Marc Rich,Marc Rich,PER,0.0,0.0,de,2
 Robert Niedergesäß,Robert Niedergesäß,PER,0.0,0.0,de,2
-Warren Buffett,Warren Buffett,PER,0.0,0.0,de,2
 André Birner,André Birner,PER,0.0,0.0,de,2
 Anna M,Anna M,PER,0.0,0.0,de,2
 Hubert Aiwanger,Hubert Aiwanger,PER,1.0,0.0,de,2
-Sören Pellmann,Sören Pellmann,PER,0.7,0.0,de,2
-Joe Biden,Joe Biden,PER,0.5,0.0,de,2
-Max Kruse,Max Kruse,PER,0.0,0.0,de,2
 Günther Oettinger,Günther Oettinger,PER,-0.7,0.0,de,2
-Matthias Zachert,Matthias Zachert,PER,0.0,0.0,de,2
-Simonetta Sommaruga,Simonetta Sommaruga,PER,0.0,0.0,de,2
-Kai Hufendiek,Kai Hufendiek,PER,-0.11666666666666665,0.0,de,2
-Christina Morina,Christina Morina,PER,0.0,0.0,de,2
-Annalena Baerbock,Annalena Baerbock,PER,0.0,0.0,de,2
-Howard Marks,Howard Marks,PER,0.0,0.0,de,2
-Björn Alexander,Björn Alexander,PER,0.5,0.0,de,2
-Ray Dalio,Ray Dalio,PER,0.0,0.0,de,2
-Swen Hubrich,Swen Hubrich,PER,0.0,0.0,de,2
-Heiko Paeth,Heiko Paeth,PER,0.0,0.0,de,2
+Joe Biden,Joe Biden,PER,0.5,0.0,de,2
 Bodo Ramelow,Bodo Ramelow,PER,0.0,0.0,de,2
-Thomas Huber,Thomas Huber,PER,0.7,0.0,de,2
-Wolfram Günther,Wolfram Günther,PER,0.7,0.0,de,2
-Greta Thunberg,Greta Thunberg,PER,0.0,0.0,de,2
+Simonetta Sommaruga,Simonetta Sommaruga,PER,0.0,0.0,de,2
+Bundespräsident Steinmeier,Bundespräsident Steinmeier,PER,0.35,0.0,de,2
 Arnold Schwarzenegger,Arnold Schwarzenegger,PER,-0.5,0.0,de,2
-Hans-Ulrich Rülke,Hans-Ulrich Rülke,PER,0.0,0.0,de,2
-Bundesinnenministerin Faeser,Bundesinnenministerin Faeser,PER,1.0,0.0,de,2
-Manfred Hübner,Manfred Hübner,PER,-1.0,0.0,de,2
-Christoph Ploß,Christoph Ploß,PER,0.0,0.0,de,2
-Ricarda Lang,Ricarda Lang,PER,0.35,0.0,de,2
-Antonio Guterres,Antonio Guterres,PER,0.0,0.0,de,2
 Florian Bieberbach,Florian Bieberbach,PER,0.0,0.0,de,2
 Florian Schardt,Florian Schardt,PER,0.0,0.0,de,2
-Claudia Cardinale,Claudia Cardinale,PER,0.0,0.0,de,1
-Ex-EU-Kommissar Oettinger,Ex-EU-Kommissar Oettinger,PER,0.0,0.0,de,1
-Sofia Loren,Sofia Loren,PER,0.0,0.0,de,1
-gerechte Flächenverteilung,gerechte Flächenverteilung,PER,1.0,0.0,de,1
-Christophe Ga,Christophe Ga,PER,0.0,0.0,de,1
-Marcos Marques,Marcos Marques,PER,0.7,0.0,de,1
-Solare Grossanlagen,Solare Grossanlagen,PER,0.0,0.0,de,1
+Greta Thunberg,Greta Thunberg,PER,0.0,0.0,de,2
+Hans-Ulrich Rülke,Hans-Ulrich Rülke,PER,0.0,0.0,de,2
+Bundesinnenministerin Faeser,Bundesinnenministerin Faeser,PER,1.0,0.0,de,2
+Antonio Guterres,Antonio Guterres,PER,0.0,0.0,de,2
+Wolfram Günther,Wolfram Günther,PER,0.7,0.0,de,2
+Ricarda Lang,Ricarda Lang,PER,0.35,0.0,de,2
+Christoph Ploß,Christoph Ploß,PER,0.0,0.0,de,2
+Manfred Hübner,Manfred Hübner,PER,-1.0,0.0,de,2
+ellelekeu Blelpplauete,ellelekeu Blelpplauete,PER,-1.0,0.0,de,1
+La Niña,La Niña,PER,0.0,0.0,de,1
+Ara Partners (Ara,Ara Partners (Ara,PER,0.0,0.0,de,1
 Andrij Sadovyi,Andrij Sadovyi,PER,-0.07500000000000001,0.4,de,1
 Gina Lollobrigida,Gina Lollobrigida,PER,0.0,0.0,de,1
-Andreas Lieb,Andreas Lieb,PER,1.0,0.0,de,1
-Ara Partners (Ara,Ara Partners (Ara,PER,0.0,0.0,de,1
-ellelekeu Blelpplauete,ellelekeu Blelpplauete,PER,-1.0,0.0,de,1
-Qian Qin,Qian Qin,PER,0.0,0.0,de,1
-La Niña,La Niña,PER,0.0,0.0,de,1
-Karolina Attspodina,Karolina Attspodina,PER,0.0,0.0,de,1
+Sofia Loren,Sofia Loren,PER,0.0,0.0,de,1
+Jean-Claude Juncker,Jean-Claude Juncker,PER,0.0,0.0,de,1
 Gutteaeu nup Plnpeuleu,Gutteaeu nup Plnpeuleu,PER,0.0,0.0,de,1
+Siemens-Energy-Chef Christian Bruch,Siemens-Energy-Chef Christian Bruch,PER,0.0,0.0,de,1
+Helios-Chef Robert Möller,Helios-Chef Robert Möller,PER,0.0,0.0,de,1
 Pnek ul,Pnek ul,PER,0.0,0.0,de,1
 Monika Schnitzer,Monika Schnitzer,PER,0.0,0.0,de,1
 Markus Reisner,Markus Reisner,PER,0.0,0.0,de,1
-Stephan Sharma,Stephan Sharma,PER,0.7,0.0,de,1
-Siemens-Energy-Chef Christian Bruch,Siemens-Energy-Chef Christian Bruch,PER,0.0,0.0,de,1
-Julian Probst,Julian Probst,PER,0.7,0.0,de,1
-Lutz Stordel,Lutz Stordel,PER,0.0,0.0,de,1
-Hans Peter Wollseifer,Hans Peter Wollseifer,PER,-1.0,0.0,de,1
-Hans Pe,Hans Pe,PER,0.0,0.0,de,1
-Björn Alexan,Björn Alexan,PER,-0.85,0.0,de,1
-Simonetta Sommaruga geric,Simonetta Sommaruga geric,PER,0.0,0.0,de,1
+Helmholtz-Forscher Roel van de Kr,Helmholtz-Forscher Roel van de Kr,PER,0.0,0.0,de,1
+Solare Grossanlagen,Solare Grossanlagen,PER,0.0,0.0,de,1
+Euro Münze Angetrieben,Euro Münze Angetrieben,PER,0.0,0.0,de,1
+Euro Münze,Euro Münze,PER,0.0,0.0,de,1
+Qian Qin,Qian Qin,PER,0.0,0.0,de,1
+Linda Teuteberg,Linda Teuteberg,PER,0.0,0.0,de,1
+Karolina Attspodina,Karolina Attspodina,PER,0.0,0.0,de,1
+Claudia Cardinale,Claudia Cardinale,PER,0.0,0.0,de,1
+Marcos Marques,Marcos Marques,PER,0.7,0.0,de,1
+gerechte Flächenverteilung,gerechte Flächenverteilung,PER,1.0,0.0,de,1
+Christophe Ga,Christophe Ga,PER,0.0,0.0,de,1
 Weihnachtsstimmung light,Weihnachtsstimmung light,PER,0.0,0.0,de,1
 Hendrik Wüst,Hendrik Wüst,PER,-0.10000000000000002,0.3333333333333333,de,1
 Frank Schnabel,Frank Schnabel,PER,0.0,0.0,de,1
-lOOelklu plup,lOOelklu plup,PER,0.0,0.0,de,1
+Salam Aldeen,Salam Aldeen,PER,0.0,0.0,de,1
 Wanjira Mathai,Wanjira Mathai,PER,0.7,0.0,de,1
 Kurt Stukenberg,Kurt Stukenberg,PER,0.0,0.0,de,1
 Veronika Dworzak,Veronika Dworzak,PER,0.0,0.0,de,1
-Gerhard Mester,Gerhard Mester,PER,0.0,0.0,de,1
-Euro Münze,Euro Münze,PER,0.0,0.0,de,1
-Robert Pollin,Robert Pollin,PER,0.0,0.0,de,1
+Lutz Stordel,Lutz Stordel,PER,0.0,0.0,de,1
+Maximilian Bauer,Maximilian Bauer,PER,0.0,0.0,de,1
+Marcel Fratzscher,Marcel Fratzscher,PER,-0.5,0.0,de,1
 Energieministern Leonore Gewessler,Energieministern Leonore Gewessler,PER,0.0,1.0,de,1
 Energieministern Leono,Energieministern Leono,PER,0.0,1.0,de,1
-Virgil Popescu,Virgil Popescu,PER,0.0,0.0,de,1
+lOOelklu plup,lOOelklu plup,PER,0.0,0.0,de,1
 Klaus Wohlrabe,Klaus Wohlrabe,PER,0.0,0.0,de,1
 Tarek Al-Wazir,Tarek Al-Wazir,PER,0.0,0.0,de,1
 Alichan Smajilow,Alichan Smajilow,PER,0.0,0.0,de,1
-Helios-Chef Robert Möller,Helios-Chef Robert Möller,PER,0.0,0.0,de,1
+Gerhard Mester,Gerhard Mester,PER,0.0,0.0,de,1
 Kersten Bux,Kersten Bux,PER,0.0,0.0,de,1
-Jean-Claude Juncker,Jean-Claude Juncker,PER,0.0,0.0,de,1
+Robert Pollin,Robert Pollin,PER,0.0,0.0,de,1
 ueek Fenpe,ueek Fenpe,PER,0.0,0.0,de,1
-Euro Münze Angetrieben,Euro Münze Angetrieben,PER,0.0,0.0,de,1
+Virgil Popescu,Virgil Popescu,PER,0.0,0.0,de,1
+Julian Probst,Julian Probst,PER,0.7,0.0,de,1
+Andreas Lieb,Andreas Lieb,PER,1.0,0.0,de,1
+Stephan Sharma,Stephan Sharma,PER,0.7,0.0,de,1
+Jeremy Hunt,Jeremy Hunt,PER,0.0,0.0,de,1
 Michael Ornetzeder,Michael Ornetzeder,PER,0.0,0.0,de,1
-Gasag-Chef Georg Friedrichs,Gasag-Chef Georg Friedrichs,PER,-1.0,0.0,de,1
-Linda Teuteberg,Linda Teuteberg,PER,0.0,0.0,de,1
-Frank Mastiaux,Frank Mastiaux,PER,0.0,0.0,de,1
-Markus Söder,Markus Söder,PER,0.0,0.0,de,1
-CSU-Chef Söder,CSU-Chef Söder,PER,-1.0,0.0,de,1
-Stefan Grob,Stefan Grob,PER,-0.35,0.5,de,1
+SPD-Chef Saleh,SPD-Chef Saleh,PER,0.7,0.0,de,1
+Stefan Gerhardt,Stefan Gerhardt,PER,-1.0,0.0,de,1
 Energiesenator Kerstan,Energiesenator Kerstan,PER,0.7,0.0,de,1
-Anniken Huitfeldt,Anniken Huitfeldt,PER,0.35,0.5,de,1
 Markus Lewe,Markus Lewe,PER,0.0,0.0,de,1
 Sarah Werner Gasknappheit,Sarah Werner Gasknappheit,PER,0.0,0.0,de,1
 Bernhard Emunds,Bernhard Emunds,PER,0.2333333333333333,0.0,de,1
@@ -142,9 +140,13 @@ Jürgen Huber,Jürgen Huber,PER,0.0,1.0,de,1
 Euro Ersparnis,Euro Ersparnis,PER,1.0,0.0,de,1
 Ressortchefin Leonore Gewessler,Ressortchefin Leonore Gewessler,PER,0.0,0.0,de,1
 Hans Kluge,Hans Kluge,PER,0.0,0.0,de,1
+Thomas Heilmann,Thomas Heilmann,PER,1.0,0.0,de,1
 vep pe,vep pe,PER,0.0,0.0,de,1
+Frank Mastiaux,Frank Mastiaux,PER,0.0,0.0,de,1
 Notenbank-Vizechef Luis de Guindos,Notenbank-Vizechef Luis de Guindos,PER,0.0,0.0,de,1
 Katars Megadeal,Katars Megadeal,PER,0.0,0.0,de,1
+Simon Larcher,Simon Larcher,PER,0.0,0.0,de,1
+Radomir Gabric,Radomir Gabric,PER,0.0,0.0,de,1
 Astrid Dörner,Astrid Dörner,PER,0.0,0.0,de,1
 Niclas Beiersdorf,Niclas Beiersdorf,PER,0.0,0.0,de,1
 Bundeswirtschaftsminister Habeck,Bundeswirtschaftsminister Habeck,PER,-1.0,0.0,de,1
@@ -152,117 +154,119 @@ nptepl lO Ppveppel,nptepl lO Ppveppel,PER,0.0,0.0,de,1
 Billie+++ “,Billie+++ “,PER,0.0,0.0,de,1
 Hertha-Investor Lars Windhorst,Hertha-Investor Lars Windhorst,PER,0.0,0.0,de,1
 Hertha BSC,Hertha BSC,PER,0.7,0.0,de,1
-Mario MehrenDer,Mario MehrenDer,PER,0.0,0.0,de,1
-Thomas Heilmann,Thomas Heilmann,PER,1.0,0.0,de,1
-Hubertus Heil,Hubertus Heil,PER,0.5666666666666667,0.3333333333333333,de,1
-Netzagentur-Chef Klaus Müller,Netzagentur-Chef Klaus Müller,PER,0.0,0.0,de,1
-Arbeitsrechtsexperte Daniel Hammes,Arbeitsrechtsexperte Daniel Hammes,PER,0.0,0.0,de,1
-Franziska Giffey,Franziska Giffey,PER,0.7,0.0,de,1
-Jeremy Hunt,Jeremy Hunt,PER,0.0,0.0,de,1
-Stefan Gerhardt,Stefan Gerhardt,PER,-1.0,0.0,de,1
+Anniken Huitfeldt,Anniken Huitfeldt,PER,0.35,0.5,de,1
+Stephan Schuetze,Stephan Schuetze,PER,0.0,0.0,de,1
+Anne Will,Anne Will,PER,0.0,0.0,de,1
+Stefan Grob,Stefan Grob,PER,-0.35,0.5,de,1
 Robert HabeckDie,Robert HabeckDie,PER,-0.7,0.0,de,1
+CSU-Chef Söder,CSU-Chef Söder,PER,-1.0,0.0,de,1
 Olaf Neumann,Olaf Neumann,PER,0.85,0.0,de,1
-Unionsfraktiosvize Jens,Unionsfraktiosvize Jens,PER,0.0,0.0,de,1
-Vizekanzler Habeck,Vizekanzler Habeck,PER,0.0,0.0,de,1
+Björn Alexan,Björn Alexan,PER,-0.85,0.0,de,1
+Gasag-Chef Georg Friedrichs,Gasag-Chef Georg Friedrichs,PER,-1.0,0.0,de,1
 Burak Dağlıoğlu,Burak Dağlıoğlu,PER,0.0,0.0,de,1
 Gasspeicher-Füllstand knackt,Gasspeicher-Füllstand knackt,PER,0.0,0.0,de,1
+Netzagentur-Chef Klaus Müller,Netzagentur-Chef Klaus Müller,PER,0.0,0.0,de,1
 Ptp Bnppteup Bupe Beplnel,Ptp Bnppteup Bupe Beplnel,PER,0.0,0.0,de,1
-Inge Hannemann,Inge Hannemann,PER,0.5666666666666667,0.3333333333333333,de,1
 Blveekeu veaeu,Blveekeu veaeu,PER,0.0,0.0,de,1
 Pnek lletleu klplullpek,Pnek lletleu klplullpek,PER,0.0,0.0,de,1
+Arbeitsrechtsexperte Daniel Hammes,Arbeitsrechtsexperte Daniel Hammes,PER,0.0,0.0,de,1
 Rudi Isken,Rudi Isken,PER,0.0,0.0,de,1
 Markus Wallner,Markus Wallner,PER,0.0,0.0,de,1
-Jörg Quoos,Jörg Quoos,PER,-0.7,0.0,de-DE,1
-Monica Guiteras Blaya,Monica Guiteras Blaya,PER,-1.0,0.0,de,1
-Anne Will,Anne Will,PER,0.0,0.0,de,1
+Unionsfraktiosvize Jens,Unionsfraktiosvize Jens,PER,0.0,0.0,de,1
+Vizekanzler Habeck,Vizekanzler Habeck,PER,0.0,0.0,de,1
 Karl Marx,Karl Marx,PER,1.0,0.0,de,1
 Frank Wunderlich-Pfeiffer,Frank Wunderlich-Pfeiffer,PER,0.7,0.0,de,1
 Lieber Milliardentransfers,Lieber Milliardentransfers,PER,1.0,0.0,de,1
-Marcel Fratzscher,Marcel Fratzscher,PER,-0.5,0.0,de,1
+Inge Hannemann,Inge Hannemann,PER,0.5666666666666667,0.3333333333333333,de,1
+Hubertus Heil,Hubertus Heil,PER,0.5666666666666667,0.3333333333333333,de,1
+Jörg Quoos,Jörg Quoos,PER,-0.7,0.0,de-DE,1
+Mario MehrenDer,Mario MehrenDer,PER,0.0,0.0,de,1
+Monica Guiteras Blaya,Monica Guiteras Blaya,PER,-1.0,0.0,de,1
+Markus Söder,Markus Söder,PER,0.0,0.0,de,1
+Simonetta Sommaruga geric,Simonetta Sommaruga geric,PER,0.0,0.0,de,1
 Stefan Birkner,Stefan Birkner,PER,0.0,0.0,de,1
-Maximilian Bauer,Maximilian Bauer,PER,0.0,0.0,de,1
-Franz Xaver PeteranderlDer,Franz Xaver PeteranderlDer,PER,0.0,0.0,de,1
-Macron Scholz,Macron Scholz,PER,-1.0,0.0,de,1
-Grischa Brower-Rabinowitsch,Grischa Brower-Rabinowitsch,PER,0.7,0.0,de,1
+Hans Pe,Hans Pe,PER,0.0,0.0,de,1
+Jahren krÃ¤ftiger,Jahren krÃ¤ftiger,PER,0.0,0.0,de,1
 Bleuhlelek aekoll,Bleuhlelek aekoll,PER,0.0,0.0,de,1
+Anna Veronika Wendlands,Anna Veronika Wendlands,PER,0.0,0.0,de,1
 Mikaela Shiffrin,Mikaela Shiffrin,PER,0.0,0.0,de,1
 Marco Odermatt,Marco Odermatt,PER,0.0,0.0,de,1
 Christoph Kauz,Christoph Kauz,PER,0.0,0.0,de,1
-Angela Göpfert,Angela Göpfert,PER,0.0,0.0,de,1
+Grischa Brower-Rabinowitsch,Grischa Brower-Rabinowitsch,PER,0.7,0.0,de,1
 Denys Schmyhal,Denys Schmyhal,PER,0.7,0.0,de,1
 Anton Hofreiter,Anton Hofreiter,PER,0.0,0.0,de,1
 Grünenpolitiker Hofreiter,Grünenpolitiker Hofreiter,PER,0.0,0.0,de,1
+Franz Xaver PeteranderlDer,Franz Xaver PeteranderlDer,PER,0.0,0.0,de,1
 Franz Xaver Peteranderl,Franz Xaver Peteranderl,PER,0.0,0.0,de,1
-Anna Veronika Wendland,Anna Veronika Wendland,PER,0.0,0.0,de,1
 Stefan Asenkerschbaumer,Stefan Asenkerschbaumer,PER,0.0,0.0,de,1
 Andreas Eschbach,Andreas Eschbach,PER,0.0,0.0,de,1
-Wirtschaftsforscher Hübner,Wirtschaftsforscher Hübner,PER,-0.7,0.0,de,1
+Angela Göpfert,Angela Göpfert,PER,0.0,0.0,de,1
 Edgar Morin,Edgar Morin,PER,0.0,0.0,de,1
-Marcel Suter,Marcel Suter,PER,0.0,0.0,de,1
+Wirtschaftsforscher Hübner,Wirtschaftsforscher Hübner,PER,-0.7,0.0,de,1
 Michael Gstettenbauer,Michael Gstettenbauer,PER,-0.35,0.5,de,1
 Frierendes SparschweinDa,Frierendes SparschweinDa,PER,0.0,1.0,de,1
 Ble Bnluoolpeke,Ble Bnluoolpeke,PER,-1.0,0.0,de,1
-Jahren krÃ¤ftiger,Jahren krÃ¤ftiger,PER,0.0,0.0,de,1
-Corona set,Corona set,PER,0.0,0.0,de,1
-Anna Veronika Wendlands,Anna Veronika Wendlands,PER,0.0,0.0,de,1
-Wladimir Puti,Wladimir Puti,PER,0.0,0.0,de,1
+Marcel Suter,Marcel Suter,PER,0.0,0.0,de,1
+Franziska Schütze,Franziska Schütze,PER,0.0,0.0,de,1
 Emanuel Macron,Emanuel Macron,PER,0.0,0.0,de,1
-Elisabeth Borne,Elisabeth Borne,PER,0.0,0.8,de,1
-SPD-Chef Saleh,SPD-Chef Saleh,PER,0.7,0.0,de,1
-Finanzminister Lindner,Finanzminister Lindner,PER,0.0,0.0,de,1
+Martin Brudermüller,Martin Brudermüller,PER,0.0,0.0,de,1
+Anna Veronika Wendland,Anna Veronika Wendland,PER,0.0,0.0,de,1
+Macron Scholz,Macron Scholz,PER,-1.0,0.0,de,1
+Wladimir Puti,Wladimir Puti,PER,0.0,0.0,de,1
+Alexander de,Alexander de,PER,0.0,0.0,de,1
 Jean-Luc Mélenchon,Jean-Luc Mélenchon,PER,0.0,0.0,de,1
 Linken-Chef Jean-Luc Mélenchon,Linken-Chef Jean-Luc Mélenchon,PER,0.0,1.0,de,1
 Andreas Friedrich,Andreas Friedrich,PER,0.0,0.0,de,1
 Ex-Kanzlerin Merkel,Ex-Kanzlerin Merkel,PER,0.0,0.0,de,1
 Roderich Kiesewetter,Roderich Kiesewetter,PER,0.0,1.0,de,1
-FOCUS-online-Autorin Sarah,FOCUS-online-Autorin Sarah,PER,0.0,1.0,de,1
+Ex-EU-Kommissar Oettinger,Ex-EU-Kommissar Oettinger,PER,0.0,0.0,de,1
 Bruno Le M,Bruno Le M,PER,0.0,0.8,de,1
 Bruno Le Maire,Bruno Le Maire,PER,0.0,0.8,de,1
+Elisabeth Borne,Elisabeth Borne,PER,0.0,0.8,de,1
 John Pettigre,John Pettigre,PER,-0.7,0.0,de,1
-Immanuel Bloch,Immanuel Bloch,PER,0.0,0.0,de,1
-Alexander de,Alexander de,PER,0.0,0.0,de,1
 Alexander de Croo,Alexander de Croo,PER,0.0,0.0,de,1
-Vll plup,Vll plup,PER,0.0,0.0,de,1
 Robert Habecks,Robert Habecks,PER,0.0,0.0,de,1
+Vll plup,Vll plup,PER,0.0,0.0,de,1
+Bundeswirtschaftsminister Habeck stre,Bundeswirtschaftsminister Habeck stre,PER,-0.7,0.0,de,1
 Sandra Maischberger,Sandra Maischberger,PER,0.0,0.0,de,1
 Winfried Kretschmer,Winfried Kretschmer,PER,0.0,0.0,de,1
+FOCUS-online-Autorin Sarah,FOCUS-online-Autorin Sarah,PER,0.0,1.0,de,1
 Mario Draghi,Mario Draghi,PER,0.0,0.0,de,1
 Amira Mohamed Ali,Amira Mohamed Ali,PER,-1.0,0.0,de,1
 Wladimir P,Wladimir P,PER,0.0,0.0,de,1
 Bill Gates,Bill Gates,PER,1.0,0.0,de,1
-Franziska Schütze,Franziska Schütze,PER,0.0,0.0,de,1
-Martin Brudermüller,Martin Brudermüller,PER,0.0,0.0,de,1
-Salam Aldeen,Salam Aldeen,PER,0.0,0.0,de,1
-Danyal Bayaz,Danyal Bayaz,PER,0.0,0.0,de,1
-Karin Prien,Karin Prien,PER,0.0,1.0,de,1
-Bep Fenp lklel,Bep Fenp lklel,PER,0.0,0.0,de,1
+Immanuel Bloch,Immanuel Bloch,PER,0.0,0.0,de,1
+Klara GeywitzWirtschaftsminister,Klara GeywitzWirtschaftsminister,PER,0.0,0.0,de,1
+Philipp Pausder,Philipp Pausder,PER,0.0,0.0,de,1
+Hans Peter Wollseifer,Hans Peter Wollseifer,PER,-1.0,0.0,de,1
+Ejf Tpoof,Ejf Tpoof,PER,0.0,0.0,de,1
 Daniel Stelter,Daniel Stelter,PER,0.35,0.0,de,1
 Ludger Schuknecht,Ludger Schuknecht,PER,0.0,0.0,de,1
 Jean Cocteau,Jean Cocteau,PER,0.0,0.0,de,1
 Josef Niedermaier,Josef Niedermaier,PER,0.0,0.0,de,1
 Ottmar Edenhofer,Ottmar Edenhofer,PER,0.0,0.0,de,1
+Putins Kälte-Würgegriff,Putins Kälte-Würgegriff,PER,0.0,0.0,de,1
 Bnuhtel Pekullel,Bnuhtel Pekullel,PER,0.0,0.0,de,1
 Rettet Flüssiggas,Rettet Flüssiggas,PER,0.0,0.0,de,1
 Uniper-Chef Klaus-Dieter Maubach,Uniper-Chef Klaus-Dieter Maubach,PER,0.0,0.0,de,1
+Danyal Bayaz,Danyal Bayaz,PER,0.0,0.0,de,1
 Hotelier Dominik Posch,Hotelier Dominik Posch,PER,0.0,0.0,de,1
-Tim Vincent Dicke,Tim Vincent Dicke,PER,0.0,0.0,de,1
 Dominik Posch,Dominik Posch,PER,0.0,0.0,de,1
-Siegfried Russwurm,Siegfried Russwurm,PER,0.0,0.0,de,1
+Mary Crandall,Mary Crandall,PER,0.0,0.0,de,1
 Rishi Sunak,Rishi Sunak,PER,0.0,0.0,de,1
 Markus Lanz,Markus Lanz,PER,0.0,0.0,de,1
-Michael Vassiliadis,Michael Vassiliadis,PER,0.0,0.0,de,1
 Jürgen Peterseim,Jürgen Peterseim,PER,0.0,0.0,de,1
 Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,0.7,0.0,de,1
-Bundeswirtschaftsminister Habeck stre,Bundeswirtschaftsminister Habeck stre,PER,-0.7,0.0,de,1
 Jürgen Gaulke,Jürgen Gaulke,PER,0.0,0.0,de,1
+Siegfried Russwurm,Siegfried Russwurm,PER,0.0,0.0,de,1
+Michael Vassiliadis,Michael Vassiliadis,PER,0.0,0.0,de,1
+Finanzminister Lindner,Finanzminister Lindner,PER,0.0,0.0,de,1
+Franziska Giffey,Franziska Giffey,PER,0.7,0.0,de,1
 Mateusz Morawiecki,Mateusz Morawiecki,PER,0.0,0.0,de,1
+Bep Fenp lklel,Bep Fenp lklel,PER,0.0,0.0,de,1
+Karin Prien,Karin Prien,PER,0.0,1.0,de,1
 Vincent Büssow,Vincent Büssow,PER,0.0,0.0,de,1
-Karolin Schäfer,Karolin Schäfer,PER,0.0,0.0,de,1
-Klara GeywitzWirtschaftsminister,Klara GeywitzWirtschaftsminister,PER,0.0,0.0,de,1
-Fällt Druck-Ausgabe,Fällt Druck-Ausgabe,PER,0.0,0.0,de,1
-Susanna Zapreva,Susanna Zapreva,PER,0.7,0.0,de,1
-Philipp Pausder,Philipp Pausder,PER,0.0,0.0,de,1
-Ejf Tpoof,Ejf Tpoof,PER,0.0,0.0,de,1
+David Za,David Za,PER,0.0,0.0,de,1
 Mahsa Amini,Mahsa Amini,PER,0.7,0.0,de,1
 Alfons Schuhbeck,Alfons Schuhbeck,PER,-0.7,0.0,de,1
 Fatih Birol,Fatih Birol,PER,0.0,0.0,de,1
@@ -270,16 +274,19 @@ Uwe Mantel,Uwe Mantel,PER,0.0,0.0,de,1
 Klaas Heufer-Umlauf,Klaas Heufer-Umlauf,PER,0.0,0.0,de,1
 Uwe Mantel),Uwe Mantel),PER,0.0,0.0,de,1
 Olaf Lies,Olaf Lies,PER,0.0,0.0,de,1
+Corona set,Corona set,PER,0.0,0.0,de,1
+Fällt Druck-Ausgabe,Fällt Druck-Ausgabe,PER,0.0,0.0,de,1
 Nouriel Roubini,Nouriel Roubini,PER,0.7,0.0,de,1
-Alfred Blaschke,Alfred Blaschke,PER,-0.7,0.0,de,1
-David Za,David Za,PER,0.0,0.0,de,1
-Kreml-Despot Wladimir Putin,Kreml-Despot Wladimir Putin,PER,-1.0,0.0,de,1
+Eva-Maria Schnurr,Eva-Maria Schnurr,PER,0.7,0.0,de,1
+Tim Vincent Dicke,Tim Vincent Dicke,PER,0.0,0.0,de,1
 Peter Longerich,Peter Longerich,PER,0.7,0.0,de,1
 Julian Popov,Julian Popov,PER,0.7,0.0,de,1
-Putins Gas-Erpressung,Putins Gas-Erpressung,PER,0.0,0.0,de,1
+Susanna Zapreva,Susanna Zapreva,PER,0.7,0.0,de,1
 Frank-Walter Steinmeier,Frank-Walter Steinmeier,PER,0.0,0.0,de,1
-Putins Kälte-Würgegriff,Putins Kälte-Würgegriff,PER,0.0,0.0,de,1
-Mary Crandall,Mary Crandall,PER,0.0,0.0,de,1
+Kreml-Despot Wladimir Putin,Kreml-Despot Wladimir Putin,PER,-1.0,0.0,de,1
+Putins Gas-Erpressung,Putins Gas-Erpressung,PER,0.0,0.0,de,1
 Daniel Günther,Daniel Günther,PER,0.0,0.0,de,1
 Agnès Pannier-Runacher,Agnès Pannier-Runacher,PER,1.0,0.0,de,1
-Eva-Maria Schnurr,Eva-Maria Schnurr,PER,0.7,0.0,de,1
+Alfred Blaschke,Alfred Blaschke,PER,-0.7,0.0,de,1
+Karolin Schäfer,Karolin Schäfer,PER,0.0,0.0,de,1
+Anika Janse,Anika Janse,PER,-1.0,0.0,de,1
