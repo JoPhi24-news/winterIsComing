@@ -15,5 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.5788931048333293
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.5442141359566419
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,3,0.4857553049661873
-'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.47181285506788895
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.4659568372947498
+'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.40599503680770554
