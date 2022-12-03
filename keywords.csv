@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.7342971091465909
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,2,0.6842889549799999
-'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.6607976960561363
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.6439957147492613
+'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.6303090152840795
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.6209637407953976
 'Inflation',de,Krise,#cc0066,#ff80bf,2,0.6150849994605055
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,2,0.6137690675223294
