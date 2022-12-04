@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.585860044486753
 'Erneuerbare',de,Energiewende,#009933,#00cc44,2,0.584506266338554
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.5731724998676646
-'Solar',de,Energiequelle,#6666ff,#e6e6ff,2,0.5402983810303437
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.5061028381992391
+'Solar',de,Energiequelle,#6666ff,#e6e6ff,2,0.4733025879667012
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.4269004510241283
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,2,0.4128928792212591
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,2,0.3996636717005373
