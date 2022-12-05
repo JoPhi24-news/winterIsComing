@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,2,0.4733025879667012
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.4578674451966259
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.4269004510241283
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,2,0.4128928792212591
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,2,0.3996636717005373
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.3724963428435672
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,3,0.35425977233807027
