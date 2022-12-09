@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.5348622570201292
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.5330884607966058
 'Erneuerbare',de,Energiewende,#009933,#00cc44,2,0.5245191791150436
-'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.49181147445986084
+'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.4918114744598608
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,2,0.4733025879667012
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.4269004510241283
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.4259582252353138
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,2,0.3996636717005373
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.3579395477806685
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.33971445094545666
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,2,0.25007342300189
