@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.4918114744598608
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,2,0.4733025879667012
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.4269004510241283
-'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.4259582252353138
+'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.3851988146318349
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.3579395477806685
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,2,0.2988757951218199
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,3,0.2175135045516064
