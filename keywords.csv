@@ -3,10 +3,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.5060476714972503
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.5052117620647617
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.5050436739216553
-'Heizen',de,Folgen,#ff9900,#ffad33,3,0.4999183189244588
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.4918114744598608
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.4901434214686829
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.4843773386654873
+'Heizen',de,Folgen,#ff9900,#ffad33,3,0.47989513608578993
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.4783879012224061
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,2,0.4733025879667012
 'Erneuerbare',de,Energiewende,#009933,#00cc44,2,0.4689837554296052
