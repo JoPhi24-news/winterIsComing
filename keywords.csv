@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.5670877587029259
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.4798951360857899
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.4770045060480216
-'Solar',de,Energiequelle,#6666ff,#e6e6ff,2,0.4733025879667012
 'Erneuerbare',de,Energiewende,#009933,#00cc44,2,0.4689837554296052
+'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.4618114593171506
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.4570961876528204
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.448526119683846
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.4479477324026815
