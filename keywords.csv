@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.536491244662864
-'Heizen',de,Folgen,#ff9900,#ffad33,3,0.4798951360857899
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.4770045060480216
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.448526119683846
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.4479477324026815
+'Heizen',de,Folgen,#ff9900,#ffad33,3,0.44469332749110324
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.4429528508741234
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.4383255407212035
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.4291239712544931
