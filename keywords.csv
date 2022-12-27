@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.3914626015279687
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.3842494785317931
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.3814681282430048
-'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.3762788722508419
+'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.3657307973223065
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.2872896405498001
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.1725855883835455
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,3,0.1453461463298585
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.09793483486080251
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0979348348608025
