@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.3289530903863828
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.327016154197754
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.3254623416379171
-'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.3232959810374791
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.3147214434051987
+'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.29341226251822083
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.2646264563363705
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.2177896651902604
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.1116174793415589
