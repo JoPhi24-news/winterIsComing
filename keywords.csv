@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.2928043911975128
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.2906893594831386
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.2881573242651396
-'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.2835929786433249
+'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.28694076775591704
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.2798871228859149
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.2403716647956852
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1649425553064381
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.1119032596980963
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,3,0.0673949850938373
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.022041908331784668
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0220419083317846
