@@ -15,5 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.2403716647956852
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1649425553064381
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.1046159852888364
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,3,0.0673949850938373
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,2,0.057286322329761705
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0220419083317846
