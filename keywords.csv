@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.2564945880893913
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.2556573403077762
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.2403716647956852
-'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1061909992524748
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.1056623767731805
+'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.10430465345551267
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,2,0.0768264028757648
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.028360635579257155
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0283606355792571
