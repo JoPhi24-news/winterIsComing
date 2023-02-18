@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.2329350218261032
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.2250419938393763
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.2172090838718579
-'Heizen',de,Folgen,#ff9900,#ffad33,3,0.21715893063306432
+'Heizen',de,Folgen,#ff9900,#ffad33,3,0.2171589306330643
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.1076280455575515
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.0583515467167612
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,2,0.0579379224372466
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,2,0.05104790907165961
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0216620247876112
