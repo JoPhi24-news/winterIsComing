@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.2250419938393763
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.2240210645041995
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.2233842361310407
-'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.2203045462979264
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.2172090838718579
+'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.20130232344414653
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1660681578823889
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.11351515600624
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.0568733380204267
