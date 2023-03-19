@@ -5,10 +5,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.2315859503238075
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.2229595331151928
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.2180514174732374
-'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.2172090838718579
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.2101640525304516
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.2095605823909141
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.2093980365557713
+'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.2077618344728974
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.2065721064265381
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.2016060273613762
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.2013023234441465
