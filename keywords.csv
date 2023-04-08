@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1804144479708499
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1775214084747895
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1771387581506232
+'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.12884127232664855
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,2,0.1275581454393475
-'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.0976242781383031
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.022168440031823
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0098230873194869
