@@ -3,9 +3,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.2157055707852379
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.2145051004462333
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.2048503886530246
-'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.20289801067474184
-'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1876726290177356
+'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.2028980106747418
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1858676258238106
+'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.18268464784689342
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1816127154987344
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1802827391610876
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1784137880828096
