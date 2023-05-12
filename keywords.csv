@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1725921623034436
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1656634108936856
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1637580988515241
-'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.163444738923171
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1633851820019254
+'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.15298152217560443
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.142280864076693
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.135353067883641
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.0807593071656978
