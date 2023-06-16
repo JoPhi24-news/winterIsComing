@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1970132483343067
-'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1875942504590268
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1872904914885254
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1870955249059986
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1865940104735604
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1860938685046291
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1859734157326042
+'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.18261424607199095
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1808161829301509
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1793029335403945
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1700365779896929
@@ -15,5 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.1410364681767187
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1319569377954106
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0948378491581442
-'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.06129226475673782
+'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.0612922647567378
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0071000349864982
