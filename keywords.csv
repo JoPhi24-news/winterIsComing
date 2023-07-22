@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiewende',de,Energiewende,#009933,#1aff66,3,0.2650310700045502
+'Energiewende',de,Energiewende,#009933,#1aff66,3,0.2711473654129586
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.2392398121940975
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.2286775835411117
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.2235927421517424
@@ -15,5 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.1188527844975857
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.0928929956422576
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0548615325822053
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.02137366301912105
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.021373663019121
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0088828536609006
