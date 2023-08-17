@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.2372774077692703
+'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.21210793168212597
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.2030273230435183
-'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.195547500909453
-'Energiewende',de,Energiewende,#009933,#1aff66,3,0.19432227178741496
+'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1943222717874149
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.191650619932297
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1845832402208292
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1779507011113914
