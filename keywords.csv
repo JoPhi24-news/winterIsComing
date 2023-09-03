@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1669355063792376
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1662305655216243
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1653871839140167
+'Winter',de,Krise,#cc0066,#ffb3d9,3,0.16494423895026955
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1624688556403359
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1621327259203881
-'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1454139206901567
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1436010673452424
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1391229737371443
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1025784969709747
