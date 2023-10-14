@@ -8,12 +8,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1581293509474465
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1580005616299918
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1528960997230133
-'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.1489817837606463
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1478156611058882
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1464395677968334
+'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.13613403574200392
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1333426844625253
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.1168453169358841
-'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.11556680436064794
+'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1155668043606479
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,2,0.1103803538975408
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0839181101479705
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0271011248597382
