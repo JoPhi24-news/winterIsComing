@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.1397315472602321
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1385217117182174
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1219751163768464
-'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.06774779747929632
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0534435235852984
+'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0677477974792963
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.04707716004750364
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0146780516317301
