@@ -15,5 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1219751163768464
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1199441581089502
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0677477974792963
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0613099628039249
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.05256351338333617
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0188018713621319
