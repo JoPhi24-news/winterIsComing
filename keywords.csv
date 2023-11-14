@@ -2,9 +2,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1677219930112285
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1586017467939841
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1568813793496133
-'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.15602059983033073
+'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1560205998303307
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1554080681079483
-'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1546564181567828
+'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.150046104069629
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1498197108721207
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1497171440995326
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1476363109848788
