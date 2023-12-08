@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1275765168699755
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1261411362733613
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1248375845155218
-'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.1150847575162856
+'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.12095902207066092
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0671594151495947
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0098423565228354
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0055140045841739
