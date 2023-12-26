@@ -15,5 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.10557171154578
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0885284003102018
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.0842027655162447
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0066819188048659545
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0031981314540716
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0066819188048659
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.00286842673596086
