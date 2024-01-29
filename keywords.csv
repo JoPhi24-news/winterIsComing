@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.2003334185681871
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1969424616333338
-'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.192255531596321
+'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.17746156094778193
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1472215272057111
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.144894027416353
-'Winter',de,Krise,#cc0066,#ffb3d9,3,0.14452874456294393
+'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1445287445629439
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1418398769498476
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1310214715626969
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1299793082397095
