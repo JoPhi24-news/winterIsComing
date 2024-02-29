@@ -14,6 +14,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1088987348863626
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.0857612373591838
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0786116718900755
-'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.06404390398945961
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0587530556402032
+'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0640439039894596
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.052640367294172714
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0020001972416481
