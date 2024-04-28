@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1329600252515273
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1301247482437331
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1144918016557686
-'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1126696381464763
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1117309274992634
+'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.10981409151541394
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.0980508736257448
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.0974600860988295
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.0912618917362576
