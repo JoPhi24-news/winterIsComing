@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1603626856952568
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1591469525552712
+'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1466024449838254
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1360246778987424
-'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.12692307371720632
+'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1269230737172063
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1253507330787722
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1249078315443312
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1223948114960853
