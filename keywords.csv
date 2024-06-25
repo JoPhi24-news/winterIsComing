@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.104884758259292
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.0972967587777288
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.0860079779944326
-'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0837489909557611
+'Heizen',de,Folgen,#ff9900,#ffad33,3,0.08068512685785148
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0636978804895419
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,1,0.0577811750207833
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0393715347800245
