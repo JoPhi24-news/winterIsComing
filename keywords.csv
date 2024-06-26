@@ -1,5 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1595073386182072
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,2,0.15046884607869696
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1405351604490579
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1390183531715929
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1384130058224402
@@ -16,4 +17,3 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,1,0.0577811750207833
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0429633141084753
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0039567139908907
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0003750953867023
