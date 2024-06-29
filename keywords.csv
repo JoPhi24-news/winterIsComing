@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,2,0.1862133583171556
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1835028154726083
-'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.13604793574256374
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,2,0.15858138456958226
+'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1360479357425637
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1348319386437486
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.1278985341668923
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1244812308810842
