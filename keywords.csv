@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.0972967587777288
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,1,0.0972180399215119
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.0963147626912546
-'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.0893146992752667
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.07893160088274266
+'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.08996009847488577
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0789316008827426
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0780808273746282
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0436747088710006
