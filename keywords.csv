@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.102173219518722
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.0972967587777288
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.0963147626912546
-'Gasspeicher',de,Krise,#cc0066,#ffcce6,1,0.0912529350932923
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0835523194777254
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.0816212762497527
+'Gasspeicher',de,Krise,#cc0066,#ffcce6,1,0.07966520482929845
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0780808273746282
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0491373107296142
-'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.04662107208580506
+'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.046621072085805
