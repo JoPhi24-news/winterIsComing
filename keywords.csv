@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1169856333109848
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.113886397187573
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1075602606477311
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.10471062661404555
-'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.0986574291143555
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.1047106266140455
+'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.09790066883811127
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.093730410218578
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0883037092554415
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.0868206082875664
