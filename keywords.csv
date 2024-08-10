@@ -2,7 +2,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1722217124819496
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.160706967895335
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1445560162648859
-'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1207152320968684
+'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.12122579591870176
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1186528150954635
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1169856333109848
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.113886397187573
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0883037092554415
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.0868206082875664
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.0752349814855353
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.06507724074435063
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0650772407443506
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.0567276440358172
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,1,0.0464446456709238
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0409379999215676
