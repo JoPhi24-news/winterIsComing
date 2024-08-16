@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1171112756218055
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1169856333109848
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1114576326686585
-'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.11086314170034614
+'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1108631417003461
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1075602606477311
-'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1060230643171587
+'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.09961786421503944
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0883037092554415
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.0846220636857913
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.0752349814855353
