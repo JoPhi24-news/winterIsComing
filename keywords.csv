@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.14735841612246428
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.143580611282846
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.142991263847193
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1370575007492039
+'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1347533632495491
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1215743764433137
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1184455660225899
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1166876243407129
