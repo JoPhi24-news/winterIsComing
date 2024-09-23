@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.0993185342857365
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.0934905734175785
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.0777134187944545
-'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0683577422105269
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.0636336766627115
+'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.06305655587894786
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.0544740446255075
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,2,0.0538601092120928
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.006056831655361
