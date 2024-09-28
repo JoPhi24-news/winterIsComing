@@ -1,12 +1,12 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Heizen',de,Folgen,#ff9900,#ffad33,3,0.14429480391107144
+'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1442948039110714
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1376753719439349
-'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1283182017427367
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.127454779311461
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1264258489904413
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1223903813014061
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1198613005183192
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1150012978578845
+'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.11402545148132619
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1019231634952559
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.0939218186883305
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.0934905734175785
