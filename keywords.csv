@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.114209988995851
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1129436794396994
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1110186395276091
-'Heizen',de,Folgen,#ff9900,#ffad33,3,0.10850287659745984
-'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1041517058532228
+'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1085028765974598
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.0968905231595423
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.09395197514374
+'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.09348169497523937
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,1,0.0863845349711036
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0652362856290865
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0293665535368111
