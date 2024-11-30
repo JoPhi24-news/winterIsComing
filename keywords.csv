@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1384453834282115
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1192866115432994
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.114209988995851
-'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.11024632004623423
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1094374302164585
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1073434713254346
+'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.09866133703929908
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0971820351078408
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.0968905231595423
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.0965766074711677
