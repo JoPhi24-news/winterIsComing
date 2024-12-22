@@ -4,8 +4,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.171480452335953
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1439891988858505
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1431694723432403
+'Heizen',de,Folgen,#ff9900,#ffad33,3,0.141954530869069
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1413443554288202
-'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1344385742844662
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1309984807095693
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.126505037953331
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.123510571235472
