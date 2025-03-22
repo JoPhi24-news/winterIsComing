@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1626675656539652
-'Winter',de,Krise,#cc0066,#ffb3d9,3,0.15999999691137157
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1443306282204108
+'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1409787823746658
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1399705641191239
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1345419557853581
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1285703468836816
