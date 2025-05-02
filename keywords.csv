@@ -15,5 +15,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.069658900681653
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,1,0.0691313220555155
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0502909202096907
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.00132203564591336
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,9.4126567207605e-05
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0013220356459133
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,8.000758212646424e-05
