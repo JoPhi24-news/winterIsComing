@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1199139508148921
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1118047121941393
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1066680124701001
-'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.09327571494313791
+'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.0932757149431379
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.0829994342503281
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.069658900681653
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,1,0.0691313220555155
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0502909202096907
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0013220356459133
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.001273745299026305
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,6.80064448074946e-05
