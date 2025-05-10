@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1199139508148921
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.1151246037471881
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1118047121941393
-'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.09787184633803084
+'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.0978718463380308
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0633512056061305
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.0605239782458619
-'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0552148806646852
+'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.051884868564982416
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0012326985041723
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,3.5499789229792224e-05
