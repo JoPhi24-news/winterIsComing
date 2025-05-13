@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1084881065514047
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.1022063481851098
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.0978718463380308
-'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0633512056061305
+'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.055049139765210926
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.049054178280235
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0012326985041723
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,2.564859771852488e-05
