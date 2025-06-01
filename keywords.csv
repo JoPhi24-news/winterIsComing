@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1175048949776585
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1171679792163104
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.0944851126057201
-'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.07878871597577138
+'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.08555788221576924
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0693833308151038
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.057634158622412
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0010878244131835
