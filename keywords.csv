@@ -10,10 +10,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1125334425180124
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1118370550192089
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1044422852800444
-'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.0997026835157198
+'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.10333487462472546
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,2,0.090523914045576
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0787501079368217
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,2,0.0746482688570734
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.0709200798890252
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0473316386375798
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.025733108271392673
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0257331082713926
