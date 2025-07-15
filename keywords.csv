@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1138099972757372
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1133366882713052
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1118370550192089
-'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.10848092000244561
+'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.1084809200024456
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1070012280981822
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1036762213296416
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1021199392653377
-'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0994899945855641
+'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.09406479994318402
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.0911294112557851
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0789424000365336
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0421663096933242
