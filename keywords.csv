@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1090016665602866
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1049386974447384
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1035442096044201
+'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.09861343983100823
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0974266405036251
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0939901484161115
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.0793072174670569
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.0726131829199986
-'Gasspeicher',de,Krise,#cc0066,#ffcce6,1,0.0702927519020265
-'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.048384105471320424
+'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0483841054713204
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.022060826139389
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.018099767977518
