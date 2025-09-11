@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1349695145205903
-'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.11549551819237915
-'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1154714911567683
+'Inflation',de,Krise,#cc0066,#ff80bf,3,0.12129793066507123
+'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1154955181923791
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1140989257256914
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.1096549009172467
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1094585018997035
