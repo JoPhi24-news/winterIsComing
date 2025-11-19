@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1292256595844357
+'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.12675817379575074
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1250893533570043
-'Energiewende',de,Energiewende,#009933,#1aff66,3,0.12200786462114005
-'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1112120841447335
+'Energiewende',de,Energiewende,#009933,#1aff66,3,0.12200786462114
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1101356951102471
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1094765730981717
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1069035091546544
