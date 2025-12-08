@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.0986847569155234
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.0983137743217768
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.0777371791376736
-'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.05078310721955393
-'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.0370145915161891
+'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0507831072195539
+'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.03641342278876073
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0212694486234053
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0098110843977253
