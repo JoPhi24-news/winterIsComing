@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1257089389400806
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1171048947156021
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1168736578767338
+'Inflation',de,Krise,#cc0066,#ff80bf,3,0.11636078764452304
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1138989247493691
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1136183389716646
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1089585214162663
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1063881999717269
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1051167714547501
-'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.10499270458656564
+'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1049927045865656
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1040942621996429
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1023029783240707
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1009715427639906
