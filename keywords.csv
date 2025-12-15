@@ -9,8 +9,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1051167714547501
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1049927045865656
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1040942621996429
-'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.10224042050826178
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1009715427639906
+'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.09185561743202243
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.0889451882863883
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.0885191831735102
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.0777371791376736
