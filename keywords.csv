@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1058802028386674
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1049927045865656
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1040942621996429
-'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1033779852721098
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.0946677799300501
+'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.09282317748129333
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.0889451882863883
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.0885191831735102
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.0800710591400906
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0760860818865568
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0519577292275817
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.00267342753873857
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0026734275387385
