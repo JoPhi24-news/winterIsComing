@@ -5,11 +5,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1158315970480698
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1153181955703902
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1088734265150861
-'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.10436627021964835
+'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1043662702196483
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1043359738819753
+'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.10278673322673391
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1001390763733783
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.0995505004481509
-'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.0990563465769062
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.0885191831735102
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.0851981680002446
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.08055402504343
