@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1271684444677413
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1213420390527954
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1074052576912845
+'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.10312694937827871
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.090891965728187
-'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.0887129901776541
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0611863476396097
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0492214195563311
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.022639566555211477
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0226395665552114
