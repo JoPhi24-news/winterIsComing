@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1355920394673527
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1354944844562776
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1271684444677413
-'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.11731837319487609
+'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.117318373194876
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.11650202848861506
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1074052576912845
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0777082158689589
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0615070150391227
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0472341327314027
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0357437815719296
