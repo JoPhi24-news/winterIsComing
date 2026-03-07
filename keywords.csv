@@ -8,9 +8,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.1424947405422684
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1362778548954392
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1361525233505717
-'Inflation',de,Krise,#cc0066,#ff80bf,3,0.13367840131953884
-'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1295418979955691
+'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1336784013195388
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1291438166062682
+'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.12897630829623372
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.127830984282336
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1271684444677413
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1114254733832978
