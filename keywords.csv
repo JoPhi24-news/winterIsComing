@@ -7,13 +7,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1469105918125948
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1464430591220543
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1440760016611233
-'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.14281065188261674
+'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1428106518826167
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.142710169627943
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1336784013195388
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1299331898479859
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1285238830166859
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.1227707094609281
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1114254733832978
-'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.078042605281003
+'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.07583238903430708
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0630978486309568
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0292544082590256
