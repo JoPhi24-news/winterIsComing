@@ -17,3 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.072670190647074
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0675853463272867
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0586079436358662
+'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.2365627229041832
+'Erdöltransporte',Krise,#cc0066,#ffe6f2,3,0.2365627229041832
+'Flüssigerdgastransporte',Krise,#cc0066,#ffe6f2,3,0.2365627229041832
