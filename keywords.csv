@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.2481544173256986
+'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.27044676427229836
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.242399135832192
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1821071393271097
 'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.1709165950482723
-'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.17091656729827234
+'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.1709165672982723
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1683799410196669
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1674801827967359
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.153830689208226
