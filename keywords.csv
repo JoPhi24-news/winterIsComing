@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1431425861216079
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1323785024851905
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1285238830166859
-'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.1237647676723767
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1193429534240135
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.115421411370788
+'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.1053500675215202
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.1030925293162203
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.0899913435332436
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0675853463272867
