@@ -6,7 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.173604250025187
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1526166123202437
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1469105918125948
-'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.14645652058637434
+'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1464565205863743
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1434311070657951
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1433441580233359
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1431425861216079
@@ -19,4 +19,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.076792672003257
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0675853463272867
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0599155656860042
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.038890376805214
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.033356850284431895
