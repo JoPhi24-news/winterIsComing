@@ -14,8 +14,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1323785024851905
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1276983481443043
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.115421411370788
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0884397409309691
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,2,0.0851259271054664
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.07607388479132372
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.0655738012027684
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0599155656860042
 'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.040500510926274
