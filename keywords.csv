@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.2467225628820081
+'Energiewende',de,Energiewende,#009933,#1aff66,3,0.23288775512035026
 'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.2327340953008703
-'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1966393648474709
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1869463293637634
-'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.18413712542190974
+'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1841371254219097
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1673033156342115
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1671828710487471
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1636756411030767
