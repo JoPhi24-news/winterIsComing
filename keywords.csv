@@ -16,7 +16,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1180426804681132
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1129361231166906
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0599155656860042
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.059412946584550264
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0491202631974716
 'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.0295391468942329
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.0193234039703661
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0105445900994709
