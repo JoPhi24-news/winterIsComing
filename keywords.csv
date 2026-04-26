@@ -12,11 +12,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.146758665391435
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1274836005752682
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.126583936203321
-'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.119761854933085
+'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.12495708487494042
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1180426804681132
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1129361231166906
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0695172644694672
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0491202631974716
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0437584371573374
-'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.02525828986009796
+'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.0252582898600979
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.0193234039703661
