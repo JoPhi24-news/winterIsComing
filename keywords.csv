@@ -3,7 +3,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.2027884710057397
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.2017174692826377
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1912963412082388
-'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1749975832526422
+'Inflation',de,Krise,#cc0066,#ff80bf,3,0.19008055712838223
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1729354046625165
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1656025163289554
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1636756411030767
@@ -17,6 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1129361231166906
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0695172644694672
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0437584371573374
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.04250229871785086
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0425022987178508
 'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.0252582898600979
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.0193234039703661
