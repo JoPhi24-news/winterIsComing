@@ -8,13 +8,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1656025163289554
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1636756411030767
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1562750223799888
+'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.14788002876453793
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1467908669996729
-'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.146758665391435
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1314941686707961
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.126583936203321
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1249570848749404
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1129361231166906
-'Heizen',de,Folgen,#ff9900,#ffad33,3,0.10983552794335076
+'Heizen',de,Folgen,#ff9900,#ffad33,3,0.1098355279433507
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0731331788899562
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0437584371573374
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0425022987178508
