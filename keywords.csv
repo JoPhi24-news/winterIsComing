@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1467908669996729
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.142352308568445
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1306338933701767
-'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.126583936203321
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1249570848749404
+'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.11711617531827741
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1129361231166906
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0983139037518481
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0807520706928264
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.028416804569249682
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0284168045692496
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0276037493876
 'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.0155117472603325
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.0118669854633009
