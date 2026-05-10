@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1775369506977939
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.171596754649187
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1676881743207106
+'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1657407916891539
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1478800287645379
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1467908669996729
-'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.14326323163737748
+'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1432632316373774
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.142352308568445
-'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1249570848749404
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1171161753182774
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0983139037518481
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0921921100889024
