@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1305155418286328
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1171161753182774
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0983139037518481
+'Gasknappheit',de,Krise,#cc0066,#ff99cc,2,0.09665389493254098
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.083316008575567
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0244543138838621
-'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.02406324697946
-'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.00857527056768886
+'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.0085752705676888
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.0072878124476495
