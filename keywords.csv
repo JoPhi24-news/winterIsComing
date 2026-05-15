@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.174215688902186
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.171596754649187
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1688254865091357
-'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1674156669469728
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.167051508172604
-'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.16007961196803885
+'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1600796119680388
+'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.15634568099583596
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1562780624597979
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1467908669996729
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1432632316373774
