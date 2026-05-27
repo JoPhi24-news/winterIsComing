@@ -1,14 +1,14 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.21673493968255614
+'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.2167349396825561
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1739269714489424
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1731394091455481
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1606065550551582
-'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1585434737099526
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1556042814102396
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1551630638644202
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1535400130487328
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1526681168470675
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1516577384613102
+'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1489385276534597
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.147534705677035
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1455907201728329
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1427730319497219
