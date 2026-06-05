@@ -9,11 +9,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.147534705677035
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1455907201728329
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1438103834109164
-'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.14179268724817354
+'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1417926872481735
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.129054597833674
-'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.1238111720717445
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1204555650997924
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1171161753182774
+'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.11480176911812567
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0983139037518481
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0693585969458471
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0635286820117989
