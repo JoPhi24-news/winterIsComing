@@ -11,12 +11,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1417926872481735
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1348974245028991
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,2,0.1291969931586229
+'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.12308549375040677
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1204555650997924
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1171161753182774
-'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.1148017691181256
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0983139037518481
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0693585969458471
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.055349544710029
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0088940408318815
-'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.0029142472052497196
+'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.0029142472052497
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.0014347837345776
