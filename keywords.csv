@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.122780529836565
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1192176439589553
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,1,0.1105204523483256
-'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0883338598126426
+'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.08941463519558492
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0801648104362117
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.008548125907005
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0076251772712755
-'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.001153030587769115
+'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.0011530305877691
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.0001474522502506
