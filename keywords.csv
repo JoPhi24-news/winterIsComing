@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.1791780411613172
+'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.17451727274708254
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1636339871404959
-'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1513243609858725
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1462732237674715
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1454568339258779
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1412782572198437
