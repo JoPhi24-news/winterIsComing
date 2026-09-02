@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1705432708172503
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1525140869583342
+'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1471392144138936
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1387919511730001
-'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1343675463692866
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1260436383095095
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1260342452478157
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1257823670114467
@@ -17,6 +17,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,2,0.076519421390252
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0752561284920145
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0604510765488513
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.01057253851600181
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0105725385160018
 'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.0005476503512413
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.0004200660274255
