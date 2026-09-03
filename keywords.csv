@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1705432708172503
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1525140869583342
+'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.14815948237031562
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1471392144138936
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1387919511730001
-'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.13005068514154788
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1260436383095095
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1260342452478157
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1245883453625945
