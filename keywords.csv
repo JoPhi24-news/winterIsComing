@@ -14,9 +14,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1119811118332579
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1081164970021418
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1048385626356586
-'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0752561284920145
+'Heizen',de,Folgen,#ff9900,#ffad33,3,0.09164928694548505
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0732273866556066
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0699667172753359
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0371042503318435
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.0004938716365925
-'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.00020654606470247
+'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.0002065460647024
