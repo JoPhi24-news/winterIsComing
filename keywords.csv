@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.2334205081066279
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.2321695223374998
-'Energiewende',de,Energiewende,#009933,#1aff66,3,0.19558166010885622
-'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1482403465047428
+'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1955816601088562
+'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.13080664952903137
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1274757696192575
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1260342452478157
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.124004239888601
