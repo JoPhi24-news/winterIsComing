@@ -13,10 +13,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.112089132563083
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1119811118332579
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1081164970021418
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,2,0.1068386427820669
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.0940666782403098
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.091649286945485
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,2,0.09126289136475685
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0830240196840355
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0732273866556066
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.0004938716365925
-'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.00014922953174745
+'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.0001492295317474
