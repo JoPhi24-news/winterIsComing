@@ -2,15 +2,15 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1982438722636469
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1859942847784485
 'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.1533345990419981
+'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.14762007170262145
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.1403921570208355
-'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1357372463881108
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1345023534566109
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1331270706889511
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.128693557823743
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1269540630739176
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1255155464545153
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1151073534041291
-'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.11386362631498419
+'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1138636263149841
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1126973287561161
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1121832437769906
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.0968791424518205
