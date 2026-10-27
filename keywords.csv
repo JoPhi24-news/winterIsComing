@@ -15,8 +15,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1121832437769906
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0923367760453856
 'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.0811320065723161
-'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.06212115281093374
+'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0621211528109337
 'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0374185857051338
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0373924040692235
-'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.000452127523518
+'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.0005343233949903
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,0.0001143890403231
