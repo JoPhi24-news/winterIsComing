@@ -8,14 +8,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Heizkosten',de,Folgen,#ff9900,#ffcc80,3,0.1412987513446296
 'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1399142728015746
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.139575730454139
+'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.13356341101257593
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,3,0.1331270706889511
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1278988167940303
-'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1244853423677364
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1195638159888654
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1121832437769906
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0923367760453856
 'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.0811320065723161
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.07390153112116524
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0739015311211652
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0713911585256572
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0320835734588399
 'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.0005343233949903
