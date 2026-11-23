@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Krise,#cc0066,#ffb3d9,3,0.2409075847782097
-'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.1728573314339438
 'Ausbau',de,Energiewende,#009933,#ccffdd,3,0.1701486482303528
 'Gasspeicher',de,Krise,#cc0066,#ffcce6,3,0.1665548471801597
+'Energiekrise',de,Krise,#cc0066,#ffe6f2,3,0.16125816107369095
 'Wasserkraft',de,Energiequelle,#6666ff,#9999ff,3,0.1584867472178323
 'Energiewende',de,Energiewende,#009933,#1aff66,3,0.1473898015498696
 'Inflation',de,Krise,#cc0066,#ff80bf,3,0.1440947469764395
