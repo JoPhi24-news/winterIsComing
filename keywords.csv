@@ -10,13 +10,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erneuerbare',de,Energiewende,#009933,#00cc44,3,0.1430760122146976
 'Preisanstieg',de,Folgen,#ff9900,#ffa31a,3,0.1416409142749257
 'Solar',de,Energiequelle,#6666ff,#e6e6ff,3,0.1415497540513327
+'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.13806152238418273
 'Windenergie',de,Energiequelle,#6666ff,#b3b3ff,2,0.1131587300856084
-'Ölpreis',de,Krise,#cc0066,#ffe6f2,3,0.1070612935612234
 'Investitionen',de,Energiewende,#009933,#80ffaa,3,0.1066092435905355
 'Photovoltaik',de,Energiequelle,#6666ff,#ccccff,3,0.1006776433845443
 'Heizen',de,Folgen,#ff9900,#ffad33,3,0.0923367760453856
 'Gasknappheit',de,Krise,#cc0066,#ff99cc,1,0.0891157548573934
 'Energieeffizienz',de,Energiewende,#009933,#004d1a,3,0.0713911585256572
-'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.054971069262688514
+'Energiearmut',de,Folgen,#ff9900,#ffebcc,1,0.0549710692626885
 'Erdöltransporte',de,Krise,#cc0066,#ffe6f2,1,0.0004365271924483
 'Flüssigerdgastransporte',de,Krise,#cc0066,#ffe6f2,1,3.667050547806589e-05
